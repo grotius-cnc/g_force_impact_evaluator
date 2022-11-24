@@ -4,7 +4,8 @@ Math example how to calculate g force for a object on a path.
 
 When to use :
 
-    1.  As check algoritme, to give machine- or automotive factory's a 
+    1.  As check algoritme, to give machine-
+        or automotive factory's a 
         insight when a critical g-force can occurs. 
 
 # ![screen](https://github.com/grotius-cnc/g_force_impact_evaluator/blob/main/screen.jpg)
@@ -25,12 +26,17 @@ the output.
 
 The code in a nutshell:
 
-    1.  Here a rotational g-force is approximately being calculated by providing 3 input points.
-    2.  The 3 input points are processed to retrieve the center of gravity point, or arc center point.
-    3.  The linear speed of motion is converted into a rpm, retrieved by the 3 input points, wich has given us the
+    1.  Here a rotational g-force is approximately being
+        calculated by providing 3 input points.
+    2.  The 3 input points are processed to retrieve the
+        center of gravity point, or arc center point.
+    3.  The linear speed of motion is converted into a rpm,
+        retrieved by the 3 input points, wich has given us the
         center point, radius, diameter, circumfence in 3d space.
-    4.  When the path as arc "checkbox" is selected, you can see there is not really a difference in output.
-        This is problably because the radius and speed stay the same. Arc fragmenation does not realy downplay the 
+    4.  When the path as arc "checkbox" is selected, you can see
+        there is not really a difference in output.
+        This is problably because the radius and speed stay the same.
+        Arc fragmenation does not realy downplay the 
         g-force output.
 
 Notes:
