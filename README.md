@@ -2,6 +2,8 @@
 
 Math example how to calculate g force for a object on a path.
 
+# ![screen](https://github.com/grotius-cnc/g_force_impact_evaluator/blob/main/screen.jpg)
+
 When to use :
 
     1.  As check algoritme, to give machine-
