@@ -2,12 +2,7 @@
 
 Math example how to calculate g force for a object on a path.
 
-When to use :
-
-    1.  As check algoritme, to give machine-
-        or automotive factory's a 
-        insight when a critical g-force can occurs. 
-
+![screen](https://github.com/grotius-cnc/g_force_impact_evaluator/blob/main/screen1.jpg)
 
 The gforce class can be used in your project.
 Here is included a visualisation with opencascade to verify
