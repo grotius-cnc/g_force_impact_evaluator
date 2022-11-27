@@ -8,8 +8,6 @@
 //! Arcpoints.
 #include <arcpoints.h>
 
-#include <gforce.h>
-
 //! libocc
 #include <libocct/opencascade.h>
 #include <libocct/draw_primitives.h>
@@ -31,7 +29,11 @@ public:
 
 private slots:
 
-    void on_pushButton_exec_pressed();
+    void on_pushButton_get_gforce_pressed();
+
+    void on_pushButton_get_max_velocity_pressed();
+
+    void on_pushButton_gforce_line_line_pressed();
 
 private:
     Ui::MainWindow *ui;

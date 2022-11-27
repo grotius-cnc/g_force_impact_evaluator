@@ -1,0 +1,6 @@
+# This are notes to run some git commands from terminal. 
+
+git add .
+git commit -m "commit"
+git push -u origin main
+

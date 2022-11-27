@@ -81,7 +81,6 @@ set(PROJECT_SOURCES
     ${SRC_DIR}/common.h
     ${SRC_DIR}/arcpoints.h
     ${SRC_DIR}/arcpoints.cpp
-    ${SRC_DIR}/gforce.h
     ${SRC_DIR}/libocct/draw_primitives.h
     ${SRC_DIR}/libocct/draw_primitives.cpp
     ${SRC_DIR}/libocct/opencascade.h
