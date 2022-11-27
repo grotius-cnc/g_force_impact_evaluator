@@ -8,7 +8,7 @@ When to use :
         or automotive factory's a 
         insight when a critical g-force can occurs. 
 
-# ![screen](https://github.com/grotius-cnc/g_force_impact_evaluator/blob/main/screen.jpg)
+# ![screen](https://github.com/grotius-cnc/g_force_impact_evaluator/blob/main/screen1.jpg)
 
 The gforce class can be used in your project.
 Here is included a visualisation with opencascade to verify
@@ -58,6 +58,7 @@ To open or edit the project in qt:
     Open the cmakelist.txt in qt editor. 
 
        
+
 
 
 
