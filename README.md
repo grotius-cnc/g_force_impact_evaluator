@@ -10,6 +10,7 @@ When to use :
 
 # ![screen](https://github.com/grotius-cnc/g_force_impact_evaluator/blob/main/screen.jpg)
 
+
 The gforce class can be used in your project.
 Here is included a visualisation with opencascade to verify
 the output.
