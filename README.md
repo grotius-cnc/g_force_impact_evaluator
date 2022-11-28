@@ -1,6 +1,6 @@
 # gforce centrifugal calculator
 
-![screen](https://github.com/grotius-cnc/arc_points_3d/blob/main/screen.jpg)
+![screen](https://github.com/grotius-cnc/g_force_impact_evaluator/blob/main/screen1.jpg)
 
 To build the project, in project top dir:
 
