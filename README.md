@@ -1,44 +1,6 @@
-# gforce 3d
+# gforce centrifugal calculator
 
-Math example how to calculate g force for a object on a path.
-
-![screen](https://github.com/grotius-cnc/g_force_impact_evaluator/blob/main/screen1.jpg)
-
-The gforce class can be used in your project.
-Here is included a visualisation with opencascade to verify
-the output.
-
-    gforce.h
-    arcpoints.h
-    arcpoints.cpp
-
-    input : point 1, (path startpoint)
-            point 2, (path waypoint, or impact point)
-            point 3. (path endpoint)
-            
-    output : g-force [g]
-
-The code in a nutshell:
-
-    1.  Here a rotational g-force is approximately being
-        calculated by providing 3 input points.
-    2.  The 3 input points are processed to retrieve the
-        center of gravity point, or arc center point.
-    3.  The linear speed of motion is converted into a rpm,
-        retrieved by the 3 input points, wich has given us the
-        center point, radius, diameter, circumfence in 3d space.
-    4.  When the path as arc "checkbox" is selected, you can see
-        there is not really a difference in output.
-        This is problably because the radius and speed stay the same.
-        Arc fragmenation does not realy downplay the 
-        g-force output.
-
-Notes:
-
-    1.  The opencascade can installed by sudo apt...
-        Or get it from https://github.com/grotius-cnc/OCCT/releases/tag/amd64-precompiled
-
-    2.  For the vector3d the Eigen library is used.
+![screen](https://github.com/grotius-cnc/arc_points_3d/blob/main/screen.jpg)
 
 To build the project, in project top dir:
 
@@ -52,7 +14,6 @@ To open or edit the project in qt:
     Open the cmakelist.txt in qt editor. 
 
        
-
 
 
 

@@ -1,4 +1,0 @@
-/home/user/gForce/build/CMakeFiles/rebuild_cache.dir
-/home/user/gForce/build/CMakeFiles/edit_cache.dir
-/home/user/gForce/build/CMakeFiles/myApp.dir
-/home/user/gForce/build/CMakeFiles/myApp_autogen.dir
